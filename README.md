@@ -2,7 +2,7 @@
 
 [Homepage](https://8lee.ai/) or the [tweets](https://twitter.com/8bit/).
 
-{*_*}
+x⸑x
 
 ## Current Projects
 
