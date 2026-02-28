@@ -1,7 +1,5 @@
 ![hello](https://github.com/user-attachments/assets/30f4a2cf-e6ab-4deb-9b5d-2b5c5aa19e40)
 
-[Homepage](https://8lee.ai/) or the [tweets](https://twitter.com/8bit/).
-
 x⸑x
 
 ## Current Projects
@@ -10,6 +8,7 @@ x⸑x
 - [Particular.ly](https://particular.ly) - Good Web Diagnostics
 - [DeathNote](https://deathnote.ai) - Digital Legacy Management
 - [AltoaX](https://altoax.com) - Enterprise ESG Accounting Platform
+- [8lee.ai](https://github.com/8bittts/8leeai) - Terminal-Style Homepage
 
 ## Past Ventures & Startups
 
