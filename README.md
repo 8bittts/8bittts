@@ -1,4 +1,4 @@
-![repair](https://github.com/user-attachments/assets/fc5cd5a1-732c-4ab8-a070-f725bf4ea2d6)
+![smoke-1](https://github.com/user-attachments/assets/08c12754-1c5a-4a32-905b-d523f2d9e0a4)
 
 x⸑x
 
