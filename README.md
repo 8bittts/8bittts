@@ -1,4 +1,3 @@
-![smoke-1 (1)](https://github.com/user-attachments/assets/0dbb4c2f-171f-4b83-b930-bed5d2348ba7)
 ![8bittts-space-shooter (1)](https://github.com/user-attachments/assets/2be555b0-2a32-4f8b-b447-d222a8cecfe0)
 
 x⸑x
