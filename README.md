@@ -5,7 +5,7 @@ x⸑x
 ## Current Projects
 
 - [YEN.chat](https://yen.chat) - Modern macOS Terminal
-- [Moving Paper](https://github.com/8bittts/moving-paper) - Animated Desktop Wallpapers for macOS
+- [MovingPaper](https://github.com/8bittts/movingpaper) - Animated Desktop Wallpapers for macOS
 - [Particular.ly](https://particular.ly) - Good Web Diagnostics
 - [DeathNote](https://deathnote.ai) - Digital Legacy Management
 - [AltoaX](https://altoax.com) - Enterprise ESG Accounting Platform
