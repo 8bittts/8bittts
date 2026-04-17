@@ -6,6 +6,7 @@ x⸑x
 
 - [YEN.chat](https://yen.chat) - Modern macOS Terminal
 - [MovingPaper](https://github.com/8bittts/movingpaper) - Animated Desktop Wallpapers for macOS
+- [DockishOS](https://github.com/8bittts/dockishOS) - macOS Taskbar that Organizes Windows by Space
 - [Particular.ly](https://particular.ly) - Good Web Diagnostics
 - [DeathNote](https://deathnote.ai) - Digital Legacy Management
 - [AltoaX](https://altoax.com) - Enterprise ESG Accounting Platform
