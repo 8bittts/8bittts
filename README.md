@@ -1,5 +1,7 @@
 ![8bittts-space-shooter (1)](https://github.com/user-attachments/assets/2be555b0-2a32-4f8b-b447-d222a8cecfe0)
 
+Award-winning product engineer and designer, obsessed with systems, speed, and my 3 kids and (sub)agents equally. I love helping teams build great products.
+
 x⸑x
 
 ## Current Projects
