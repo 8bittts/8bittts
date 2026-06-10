@@ -6,6 +6,7 @@ x⸑x
 
 ## Current Projects
 
+- [Ditto](https://ditto.ai) - AI-Native Dating Platform for College Students
 - [YEN.chat](https://yen.chat) - Modern macOS Terminal
 - [MovingPaper](https://github.com/8bittts/movingpaper) - Animated Desktop Wallpapers for macOS
 - [DockishOS](https://github.com/8bittts/dockishOS) - macOS Taskbar that Organizes Windows by Space
