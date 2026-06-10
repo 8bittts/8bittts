@@ -6,7 +6,6 @@ x⸑x
 
 ## Current Projects
 
-- [Wonderkin](https://www.kindredlabs.ai) - Native macOS AI Desktop Companion
 - [YEN.chat](https://yen.chat) - Modern macOS Terminal
 - [MovingPaper](https://github.com/8bittts/movingpaper) - Animated Desktop Wallpapers for macOS
 - [DockishOS](https://github.com/8bittts/dockishOS) - macOS Taskbar that Organizes Windows by Space
@@ -17,6 +16,7 @@ x⸑x
 
 ## Past Ventures & Startups
 
+- [Wonderkin](https://www.kindredlabs.ai) - Native macOS AI Desktop Companion
 - Shibuyaaa - Mobile Music Creation App
 - Cascading AI (YC23) - AI-native Loan Origination Platform
 - Valkyrie AI - LLMs + Knowledge Graphs for the DoD
