@@ -6,7 +6,6 @@ x⸑x
 
 ## Current Projects
 
-- [Ditto](https://ditto.ai) - AI-Native Dating Platform for College Students
 - [YEN.chat](https://yen.chat) - Modern macOS Terminal
 - [MovingPaper](https://github.com/8bittts/movingpaper) - Animated Desktop Wallpapers for macOS
 - [DockishOS](https://github.com/8bittts/dockishOS) - macOS Taskbar that Organizes Windows by Space
@@ -17,6 +16,7 @@ x⸑x
 
 ## Past Ventures & Startups
 
+- [Ditto](https://ditto.ai) - AI-Native Dating Platform for College Students
 - [Wonderkin](https://www.kindredlabs.ai) - Native macOS AI Desktop Companion
 - Shibuyaaa - Mobile Music Creation App
 - Cascading AI (YC23) - AI-native Loan Origination Platform
