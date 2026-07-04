@@ -6,6 +6,7 @@ x⸑x
 
 ## Current Projects
 
+- [JP the Cat](https://jpthecat.com) - The Cat that Counts Your Agent Tokens
 - [YEN.chat](https://yen.chat) - Modern macOS Terminal
 - [MovingPaper](https://github.com/8bittts/movingpaper) - Animated Desktop Wallpapers for macOS
 - [DockishOS](https://github.com/8bittts/dockishOS) - macOS Taskbar that Organizes Windows by Space
@@ -13,7 +14,6 @@ x⸑x
 - [DeathNote](https://deathnote.ai) - Digital Legacy Management
 - [AltoaX](https://altoax.com) - Enterprise ESG Accounting Platform
 - [8lee.ai](https://github.com/8bittts/8leeai) - Terminal-Style Homepage
-- [JP the Cat](https://jpthecat.com) - The Cat that Counts Your Agent Tokens
 
 ## Past Ventures & Startups
 
