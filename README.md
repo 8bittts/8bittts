@@ -13,6 +13,7 @@ x⸑x
 - [DeathNote](https://deathnote.ai) - Digital Legacy Management
 - [AltoaX](https://altoax.com) - Enterprise ESG Accounting Platform
 - [8lee.ai](https://github.com/8bittts/8leeai) - Terminal-Style Homepage
+- [JP the Cat](https://jpthecat.com) - The Cat that Counts Your Agent Tokens
 
 ## Past Ventures & Startups
 
