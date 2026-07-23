@@ -13,7 +13,7 @@ x⸑x
 - [Particular.ly](https://particular.ly) - Good Web Diagnostics
 - [DeathNote](https://deathnote.ai) - Digital Legacy Management
 - [AltoaX](https://altoax.com) - Enterprise ESG Accounting Platform
-- [8lee.ai](https://github.com/8bittts/8leeai) - Terminal-Style Homepage
+- [8lee.ai](https://8lee.ai) - Personal Homepage
 
 ## Past Ventures & Startups
 
