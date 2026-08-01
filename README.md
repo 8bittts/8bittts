@@ -102,7 +102,7 @@ x⸑x
 ## Volunteer
 
 - Mentor, Blue Startups - Helping Entrepreneurs Win
-- [Coach/Speaker, University of Hawai'i](https://sa2020.org/stories/getting-your-code-on) - Challenging Engineers
+- [Coach/Speaker, University of Hawai'i](https://web.archive.org/web/20250424072255/https://sa2020.org/stories/getting-your-code-on) - Challenging Engineers
 - [Soccer Coach](https://x.com/8BIT/status/1817289302155419802) - US Soccer Federation Licensed
 - Youth Pastor - Preached & Mentored 50+ Community
 - TEK Styles - Hip-Hop and Breakdance Instructor
