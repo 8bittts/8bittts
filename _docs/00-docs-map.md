@@ -9,7 +9,7 @@ GitHub profile README repository — not an application codebase. Public portfol
 | Doc | Owns |
 |-----|------|
 | `README.md` | Career/project list (~90 entries), current and past ventures |
-| `AGENTS.md` | Local-only notes (`.git/info/exclude`); warns about credential backup dir |
+| `AGENTS.md` | Local-only notes (`.gitignore` — public repo exception); warns about credential backup dir |
 
 ## Sync contract
 

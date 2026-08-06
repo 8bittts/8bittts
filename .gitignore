@@ -1,0 +1,6 @@
+# Public GitHub profile repo — keep agent notes and secret paths local-only.
+# Private repos in the portfolio track AGENTS.md / CLAUDE.md instead.
+AGENTS.md
+CLAUDE.md
+btcemail-jobs-kindred-env/
+.DS_Store
