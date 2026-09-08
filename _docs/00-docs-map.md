@@ -8,7 +8,7 @@ GitHub profile README repository — not an application codebase. Public portfol
 
 | Doc | Owns |
 |-----|------|
-| `README.md` | Career/project list (~90 entries), current and past ventures |
+| `README.md` | Career/project list (~82 entries mirroring `8leeai` `lib/data/portfolio.json`), current and past ventures |
 | `AGENTS.md` | Local-only notes (`.gitignore` — public repo exception); warns about credential backup dir |
 
 ## Sync contract
