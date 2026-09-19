@@ -18,7 +18,6 @@ x⸑x
 ## Past Ventures & Startups
 
 - [Ditto](https://ditto.ai) - AI-Native Dating Platform for College Students
-- [Wonderkin](https://www.kindredlabs.ai) - Native macOS AI Desktop Companion
 - Shibuyaaa - Mobile Music Creation App
 - Cascading AI (YC23) - AI-native Loan Origination Platform
 - Valkyrie AI - LLMs + Knowledge Graphs for the DoD
