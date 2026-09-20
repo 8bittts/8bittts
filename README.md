@@ -6,6 +6,7 @@ x⸑x
 
 ## Current Projects
 
+- [OctoDoc](https://octodoc.org) - Document Signing for the Agentic Era
 - [JP the Cat](https://jpthecat.com) - The Cat that Counts Your Agent Tokens
 - [YEN.chat](https://yen.chat) - Modern macOS Terminal
 - [MovingPaper](https://github.com/8bittts/movingpaper) - Animated Desktop Wallpapers for macOS
