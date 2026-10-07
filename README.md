@@ -21,7 +21,7 @@ x⸑x
 - [Ditto](https://ditto.ai) - AI-Native Dating Platform for College Students
 - [Wonderkin](https://www.kindredlabs.ai) - Native macOS AI Desktop Companion
 - [Shibuyaaa](https://www.linkedin.com/company/shibuyaaa/about/) - Mobile Music Creation App
-- [Cascading AI (YC23)][https://www.cascading.ai/company/company/) - AI-native Loan Origination Platform
+- [Cascading AI ([YC23](https://www.cascading.ai/company/company/)] - AI-native Loan Origination Platform
 - [Valkyrie A](https://www.linkedin.com/company/valkyriescience/about/)I - LLMs + Knowledge Graphs for the DoD
 - [Influur](https://www.influur.com/) - Enterprise Marketing AI Platform
 - [dotEARTH](https://x.com/8BIT/status/1820462652499410980) - Generative AI Venture Studio
