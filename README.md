@@ -6,18 +6,19 @@ x⸑x
 
 ## Current Projects
 
-- [OctoDoc](https://octodoc.org) - Document Signing for the Agentic Era
-- [JP the Cat](https://jpthecat.com) - The Cat that Counts Your Agent Tokens
+- [Bitcoin Email](https://btc.email) - Bitcoin + Email - Spam
 - [YEN.chat](https://yen.chat) - Modern macOS Terminal
-- [MovingPaper](https://github.com/8bittts/movingpaper) - Animated Desktop Wallpapers for macOS
-- [DockishOS](https://github.com/8bittts/dockishOS) - macOS Taskbar that Organizes Windows by Space
+
+## Other Projects, Startups, and Experiments
+
+- [8lee.ai](https://8lee.ai) - Personal Homepage
+- [JP the Cat](https://jpthecat.com) - The Cat that Counts Your Agent Tokens
+- [OctoDoc](https://octodoc.org) - Document Signing for the Agentic Era
 - [Particular.ly](https://particular.ly) - Good Web Diagnostics
 - [DeathNote](https://deathnote.ai) - Digital Legacy Management
 - [AltoaX](https://altoax.com) - Enterprise ESG Accounting Platform
-- [8lee.ai](https://8lee.ai) - Personal Homepage
-
-## Past Ventures & Startups
-
+- [MovingPaper](https://github.com/8bittts/movingpaper) - Animated Desktop Wallpapers for macOS
+- [DockishOS](https://github.com/8bittts/dockishOS) - macOS Taskbar that Organizes Windows by Space
 - [Ditto](https://ditto.ai) - AI-Native Dating Platform for College Students
 - [Wonderkin](https://www.kindredlabs.ai) - Native macOS AI Desktop Companion
 - [Shibuyaaa](https://www.linkedin.com/company/shibuyaaa/about/) - Mobile Music Creation App
