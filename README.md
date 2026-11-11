@@ -6,7 +6,7 @@ x⸑x
 
 ## Current Projects
 
-- [YEN.chat](https://yen.chat) - Modern GPU-powered macOS Terminal
+- [YEN.chat](https://yen.chat) - GPU-powered macOS Terminal
 - [Bitcoin Email](https://btc.email) - Bitcoin + Email with Zero Spam
 
 ## Other Projects, Startups, and Experiments
