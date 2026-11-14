@@ -4,3 +4,7 @@ AGENTS.md
 CLAUDE.md
 btcemail-jobs-kindred-env/
 .DS_Store
+
+# env / secrets — never commit; keep examples committable
+.env*
+!.env.example
