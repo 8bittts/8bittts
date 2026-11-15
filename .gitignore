@@ -8,3 +8,6 @@ btcemail-jobs-kindred-env/
 # env / secrets — never commit; keep examples committable
 .env*
 !.env.example
+
+# task worktrees are nested checkouts
+.worktrees/
