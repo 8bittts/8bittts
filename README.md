@@ -6,8 +6,18 @@ x⸑x
 
 ## Current Projects
 
-- [YEN.chat](https://yen.chat) - GPU-powered macOS Terminal
+- [YEN.chat](https://yen.chat) - An independent macOS terminal built on Ghostty
 - [Bitcoin Email](https://btc.email) - Bitcoin + Email with Zero Spam
+
+### YEN · Quit the app. Keep the shell.
+
+Start a dev server, quit YEN, and reopen it. Your shell still has its port and scrollback.
+Name a split, drag it into place, and follow the outline to see where your next keystroke goes.
+
+Two opt-in experiments bring more of the workspace into macOS.
+Read daily agent token counts in the menu bar, or play a video behind the desktop icons on macOS 27.
+
+[Download YEN](https://yen.chat/download) · [Field guide](https://yen.chat/#guide) · [Source](https://github.com/8bittts/yenchat) · [Release notes](https://blog.yen.chat/releases)
 
 ## Other Projects, Startups, and Experiments
 
