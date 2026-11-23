@@ -6,18 +6,8 @@ x⸑x
 
 ## Current Projects
 
-- [YEN.chat](https://yen.chat) - An independent macOS terminal built on Ghostty
+- [YEN.chat](https://yen.chat) - An opinionated macOS terminal
 - [Bitcoin Email](https://btc.email) - Bitcoin + Email with Zero Spam
-
-### YEN · Quit the app. Keep the shell.
-
-Start a dev server, quit YEN, and reopen it. Your shell still has its port and scrollback.
-Name a split, drag it into place, and follow the outline to see where your next keystroke goes.
-
-Two opt-in experiments bring more of the workspace into macOS.
-Read daily agent token counts in the menu bar, or play a video behind the desktop icons on macOS 27.
-
-[Download YEN](https://yen.chat/download) · [Field guide](https://yen.chat/#guide) · [Source](https://github.com/8bittts/yenchat) · [Release notes](https://blog.yen.chat/releases)
 
 ## Other Projects, Startups, and Experiments
 
@@ -26,10 +16,11 @@ Read daily agent token counts in the menu bar, or play a video behind the deskto
 - [Particular.ly](https://particular.ly) - Good Web Diagnostics
 - [DeathNote](https://deathnote.ai) - Digital Legacy Management
 - [AltoaX](https://altoax.com) - Enterprise ESG Accounting Platform
+- [DockishOS](https://github.com/8bittts/dockishOS) - macOS Taskbar that Organizes Windows by Space
 - [Ditto](https://ditto.ai) - AI-Native Dating Platform for College Students
-- [Wonderkin](https://www.kindredlabs.ai) - Native macOS AI Desktop Companion
+- [Wonderkin](https://www.kindredlabs.ai) - macOS AI Desktop Companion
 - [Shibuyaaa](https://www.linkedin.com/company/shibuyaaa/about/) - Mobile Music Creation App
-- Cascading AI ([YC23](https://www.cascading.ai/company/company/)) - AI-native Loan Origination Platform
+- [Cascading AI](https://www.cascading.ai/company/company/) (YC23) - AI-native Loan Origination Platform
 - [Valkyrie A](https://www.linkedin.com/company/valkyriescience/about/)I - LLMs + Knowledge Graphs for the DoD
 - [Influur](https://www.influur.com/) - Enterprise Marketing AI Platform
 - [dotEARTH](https://x.com/8BIT/status/1820462652499410980) - Generative AI Venture Studio
