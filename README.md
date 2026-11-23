@@ -26,7 +26,6 @@ Read daily agent token counts in the menu bar, or play a video behind the deskto
 - [Particular.ly](https://particular.ly) - Good Web Diagnostics
 - [DeathNote](https://deathnote.ai) - Digital Legacy Management
 - [AltoaX](https://altoax.com) - Enterprise ESG Accounting Platform
-- [DockishOS](https://github.com/8bittts/dockishOS) - macOS Taskbar that Organizes Windows by Space
 - [Ditto](https://ditto.ai) - AI-Native Dating Platform for College Students
 - [Wonderkin](https://www.kindredlabs.ai) - Native macOS AI Desktop Companion
 - [Shibuyaaa](https://www.linkedin.com/company/shibuyaaa/about/) - Mobile Music Creation App
